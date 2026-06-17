@@ -1,0 +1,6 @@
+{
+  "name": "MHT CET Learning Hub",
+  "description": "A comprehensive learning portal for MHT CET 12th Science students feature live classes, tests, and materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
