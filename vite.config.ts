@@ -4,7 +4,7 @@ import path from 'path'
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/udayagiri-file-upload-sys-included/',
+  base: '/udayagiri-file-upload-sys-inculded/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
